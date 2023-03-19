@@ -1,4 +1,4 @@
 # MS-SQL-Python-Serviciu-112
-O simulare in care se tine evidenta apelurilor si interventiilor serviciilor 112
+The evidence of calls, services and operators for the 112 service.
 
 In order for the app to connect to the database, you must change the connection at the lines 17-22 to your SQL Server Connection.
